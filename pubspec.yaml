@@ -1,7 +1,6 @@
 name: build_api
-description: build api
+description: 一个简单易用的API框架
 version: 0.0.1
-author: wangaibo168@163.com
 homepage: https://github.com/aibow
 
 environment:
